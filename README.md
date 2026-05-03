@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Agentic AI implementation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/asimkumarjaiswal](https://github.com/asimkumarjaiswal)
+- 👨‍💻 All of my projects are available at https://github.com/asimkumarjaiswal?tab=repositories
 
 - 💬 Ask me about **.Net Core, Web API, Azure AI Services, RAG, Azure Open AI, NLP, Azure Languages, Azure vision**
 
